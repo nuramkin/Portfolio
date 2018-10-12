@@ -1,0 +1,9 @@
+﻿  date.cpp
+  main.cpp
+  task.cpp
+  todolist.cpp
+c:\users\nick\source\repos\itse1430\classwork\other classes\programmingassignment3\programmingassignment3\todolist.cpp(93): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nick\source\repos\itse1430\classwork\other classes\programmingassignment3\programmingassignment3\todolist.cpp(136): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nick\source\repos\itse1430\classwork\other classes\programmingassignment3\programmingassignment3\todolist.cpp(421): warning C4101: 'choice': unreferenced local variable
+  Generating Code...
+  programmingassignment3.vcxproj -> C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\programmingassignment3\x64\Debug\PA3_Nicholas_Uramkin.exe
