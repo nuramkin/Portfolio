@@ -1,0 +1,67 @@
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.Mvc.dll.config
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.Mvc.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.Mvc.pdb
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.Data.Sql.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Helpers.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Mvc.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Optimization.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Razor.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.WebPages.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\WebGrease.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.Data.Sql.pdb
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.pdb
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Helpers.xml
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Mvc.xml
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Optimization.xml
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Razor.xml
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.WebPages.xml
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\obj\Debug\NicholasUramkin.MovieLib.Mvc.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\obj\Debug\NicholasUramkin.MovieLib.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\obj\Debug\NicholasUramkin.MovieLib.Mvc.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Mvc\obj\Debug\NicholasUramkin.MovieLib.Mvc.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.Mvc.dll.config
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.Mvc.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.Mvc.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.Data.Sql.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Helpers.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Mvc.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Optimization.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Razor.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.WebPages.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\WebGrease.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.Data.Sql.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\NicholasUramkin.MovieLib.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Helpers.xml
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Mvc.xml
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Optimization.xml
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.Razor.xml
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.WebPages.xml
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\obj\Debug\NicholasUramkin.MovieLib.Mvc.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\obj\Debug\NicholasUramkin.MovieLib.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\obj\Debug\NicholasUramkin.MovieLib.Mvc.csproj.CopyComplete
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\obj\Debug\NicholasUramkin.MovieLib.Mvc.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Mvc\obj\Debug\NicholasUramkin.MovieLib.Mvc.pdb

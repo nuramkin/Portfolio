@@ -1,0 +1,9 @@
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MemoryMovieDatabase\bin\Release\MemoryMovieDatabase.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MemoryMovieDatabase\bin\Release\MemoryMovieDatabase.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MemoryMovieDatabase\bin\Release\NicholasUramkin.MovieLib.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MemoryMovieDatabase\bin\Release\NicholasUramkin.MovieLib.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MemoryMovieDatabase\obj\Release\NicholasUramkin.MovieLib.Data.Memory.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MemoryMovieDatabase\obj\Release\NicholasUramkin.MovieLib.Data.Memory.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MemoryMovieDatabase\obj\Release\NicholasUramkin.MovieLib.Data.Memory.csproj.CopyComplete
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MemoryMovieDatabase\obj\Release\MemoryMovieDatabase.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MemoryMovieDatabase\obj\Release\MemoryMovieDatabase.pdb

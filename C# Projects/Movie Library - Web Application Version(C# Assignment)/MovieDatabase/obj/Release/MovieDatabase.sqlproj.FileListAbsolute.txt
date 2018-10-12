@@ -1,0 +1,9 @@
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MovieDatabase\bin\Release\MovieDatabase.dacpac
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MovieDatabase\bin\Release\MovieDatabase.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MovieDatabase\bin\Release\MovieDatabase.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MovieDatabase\obj\Release\Model.xml
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MovieDatabase\obj\Release\refactor.xml
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MovieDatabase\obj\Release\postdeploy.sql
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MovieDatabase\obj\Release\predeploy.sql
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MovieDatabase\obj\Release\MovieDatabase.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\MovieDatabase\obj\Release\MovieDatabase.pdb

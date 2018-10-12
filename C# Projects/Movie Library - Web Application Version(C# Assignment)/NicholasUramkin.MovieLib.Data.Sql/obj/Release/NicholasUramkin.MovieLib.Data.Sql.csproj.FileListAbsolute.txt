@@ -1,0 +1,9 @@
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Data.Sql\bin\Release\NicholasUramkin.MovieLib.Data.Sql.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Data.Sql\bin\Release\NicholasUramkin.MovieLib.Data.Sql.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Data.Sql\bin\Release\NicholasUramkin.MovieLib.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Data.Sql\bin\Release\NicholasUramkin.MovieLib.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Data.Sql\obj\Release\NicholasUramkin.MovieLib.Data.Sql.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Data.Sql\obj\Release\NicholasUramkin.MovieLib.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Data.Sql\obj\Release\NicholasUramkin.MovieLib.Data.Sql.csproj.CopyComplete
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Data.Sql\obj\Release\NicholasUramkin.MovieLib.Data.Sql.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib.Data.Sql\obj\Release\NicholasUramkin.MovieLib.Data.Sql.pdb

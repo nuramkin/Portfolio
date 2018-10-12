@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib\bin\Release\NicholasUramkin.MovieLib.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib\bin\Release\NicholasUramkin.MovieLib.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib\obj\Release\NicholasUramkin.MovieLib.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib\obj\Release\NicholasUramkin.MovieLib.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib\obj\Release\NicholasUramkin.MovieLib.dll
+C:\Users\Nick\Documents\GitHub\Portfolio\C# Projects\Movie Library - Web Application (C# Assignment)\NicholasUramkin.MovieLib\obj\Release\NicholasUramkin.MovieLib.pdb
