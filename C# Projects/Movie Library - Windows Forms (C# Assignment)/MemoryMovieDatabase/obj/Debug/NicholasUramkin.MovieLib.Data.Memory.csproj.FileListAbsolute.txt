@@ -1,0 +1,9 @@
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab4\MemoryMovieDatabase\bin\Debug\MemoryMovieDatabase.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab4\MemoryMovieDatabase\bin\Debug\MemoryMovieDatabase.pdb
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab4\MemoryMovieDatabase\bin\Debug\NicholasUramkin.MovieLib.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab4\MemoryMovieDatabase\bin\Debug\NicholasUramkin.MovieLib.pdb
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab4\MemoryMovieDatabase\obj\Debug\NicholasUramkin.MovieLib.Data.Memory.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab4\MemoryMovieDatabase\obj\Debug\MemoryMovieDatabase.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab4\MemoryMovieDatabase\obj\Debug\MemoryMovieDatabase.pdb
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab4\MemoryMovieDatabase\obj\Debug\NicholasUramkin.MovieLib.Data.Memory.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab4\MemoryMovieDatabase\obj\Debug\NicholasUramkin.MovieLib.Data.Memory.csproj.CopyComplete

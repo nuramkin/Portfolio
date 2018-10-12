@@ -1,0 +1,8 @@
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Data.Sql\bin\Debug\NicholasUramkin.MovieLib.Data.Sql.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Data.Sql\bin\Debug\NicholasUramkin.MovieLib.Data.Sql.pdb
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Data.Sql\bin\Debug\NicholasUramkin.MovieLib.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Data.Sql\bin\Debug\NicholasUramkin.MovieLib.pdb
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Data.Sql\obj\Debug\NicholasUramkin.MovieLib.Data.Sql.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Data.Sql\obj\Debug\NicholasUramkin.MovieLib.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Data.Sql\obj\Debug\NicholasUramkin.MovieLib.Data.Sql.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib.Data.Sql\obj\Debug\NicholasUramkin.MovieLib.Data.Sql.pdb

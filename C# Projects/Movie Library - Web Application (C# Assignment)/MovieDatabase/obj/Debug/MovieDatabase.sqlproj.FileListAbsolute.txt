@@ -1,0 +1,9 @@
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\MovieDatabase\bin\Debug\MovieDatabase.dacpac
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\MovieDatabase\bin\Debug\MovieDatabase.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\MovieDatabase\bin\Debug\MovieDatabase.pdb
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\MovieDatabase\obj\Debug\Model.xml
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\MovieDatabase\obj\Debug\refactor.xml
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\MovieDatabase\obj\Debug\postdeploy.sql
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\MovieDatabase\obj\Debug\predeploy.sql
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\MovieDatabase\obj\Debug\MovieDatabase.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\MovieDatabase\obj\Debug\MovieDatabase.pdb

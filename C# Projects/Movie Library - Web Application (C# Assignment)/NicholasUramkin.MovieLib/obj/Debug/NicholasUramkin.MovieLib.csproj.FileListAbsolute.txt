@@ -1,0 +1,5 @@
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib\bin\Debug\NicholasUramkin.MovieLib.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib\bin\Debug\NicholasUramkin.MovieLib.pdb
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib\obj\Debug\NicholasUramkin.MovieLib.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib\obj\Debug\NicholasUramkin.MovieLib.dll
+C:\Users\Nick\Source\Repos\ITSE1430\Labs\Lab5\NicholasUramkin.MovieLib\obj\Debug\NicholasUramkin.MovieLib.pdb
