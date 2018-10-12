@@ -1,0 +1,13 @@
+C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\PersonaFusionApp\PersonaFusionApp.Windows\bin\Debug\PersonaFusionApp.exe.config
+C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\PersonaFusionApp\PersonaFusionApp.Windows\bin\Debug\PersonaFusionApp.exe
+C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\PersonaFusionApp\PersonaFusionApp.Windows\bin\Debug\PersonaFusionApp.pdb
+C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\PersonaFusionApp\PersonaFusionApp.Windows\obj\Debug\PersonaFusionApp.Windows.FoolMenu.resources
+C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\PersonaFusionApp\PersonaFusionApp.Windows\obj\Debug\PersonaFusionApp.MagicianMenu.resources
+C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\PersonaFusionApp\PersonaFusionApp.Windows\obj\Debug\PersonaFusionApp.Windows.MainMenu.resources
+C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\PersonaFusionApp\PersonaFusionApp.Windows\obj\Debug\PersonaFusionApp.Windows.PersonaDetailForm.resources
+C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\PersonaFusionApp\PersonaFusionApp.Windows\obj\Debug\PersonaFusionApp.Properties.Resources.resources
+C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\PersonaFusionApp\PersonaFusionApp.Windows\obj\Debug\PersonaFusionApp.Windows.csproj.GenerateResource.Cache
+C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\PersonaFusionApp\PersonaFusionApp.Windows\obj\Debug\PersonaFusionApp.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\PersonaFusionApp\PersonaFusionApp.Windows\obj\Debug\PersonaFusionApp.exe
+C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\PersonaFusionApp\PersonaFusionApp.Windows\obj\Debug\PersonaFusionApp.pdb
+C:\Users\Nick\Source\Repos\ITSE1430\Classwork\other classes\PersonaFusionApp\PersonaFusionApp.Windows\obj\Debug\PersonaFusionApp.Windows.csprojAssemblyReference.cache
