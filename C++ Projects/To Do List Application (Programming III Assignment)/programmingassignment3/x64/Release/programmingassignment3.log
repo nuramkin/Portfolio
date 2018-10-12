@@ -1,0 +1,11 @@
+﻿  date.cpp
+  main.cpp
+  task.cpp
+  todolist.cpp
+c:\users\nick\documents\github\portfolio\c++ projects\to do list application (programming iii assignment)\programmingassignment3\todolist.cpp(93): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nick\documents\github\portfolio\c++ projects\to do list application (programming iii assignment)\programmingassignment3\todolist.cpp(136): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nick\documents\github\portfolio\c++ projects\to do list application (programming iii assignment)\programmingassignment3\todolist.cpp(421): warning C4101: 'choice': unreferenced local variable
+  Generating code
+  All 342 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  programmingassignment3.vcxproj -> C:\Users\Nick\Documents\GitHub\Portfolio\C++ Projects\To Do List Application (Programming III Assignment)\x64\Release\PA3_Nicholas_Uramkin.exe

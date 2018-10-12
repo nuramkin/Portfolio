@@ -14,5 +14,7 @@ The Application should have a menu with the following choices:
 
 There is a "text.txt" file to load for testing out the application.  
 Otherwise you can create a new to do list and save it to the project folder
-from the application.
+from the application.  
+
+You can build it or use the release version in the release folder.
 
